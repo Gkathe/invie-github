@@ -5,5 +5,5 @@
 - [ ] Backend
 - [ ] Configuracion del server
 
-#como puedo probar los cambios?
+# Como puedo probar los cambios?
 En que URL y forma puedo ver el update
